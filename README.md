@@ -2,7 +2,7 @@
 es un comando donde se vera tu perfil agitandose fuerte.
 
 # Uso del comando.
-< p > Crear una fila llamada ** Activado ** con lenguaje * js * </ p>
+Crear una fila llamada ** activada ** con el lenguaje de__JavaScript__.
 
 # creador
 Joanplay
