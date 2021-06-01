@@ -1,0 +1,1 @@
+# Comando-de-triggered-para-bot-discord
